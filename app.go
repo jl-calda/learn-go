@@ -6,5 +6,6 @@ func main() {
 	// helloWorld()
 	// pointers()
 	// structs()
-	noteTaking()
+	// noteTaking()
+	arrays()
 }
