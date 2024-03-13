@@ -7,5 +7,9 @@ func main() {
 	// pointers()
 	// structs()
 	// noteTaking()
-	arrays()
+	// arrays()
+	// maps()
+	// functionsGo()
+	// recurssion()
+	priceCalc()
 }
