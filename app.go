@@ -11,5 +11,7 @@ func main() {
 	// maps()
 	// functionsGo()
 	// recurssion()
-	priceCalc()
+	// priceCalc()
+	// concurrency()
+	booking()
 }
